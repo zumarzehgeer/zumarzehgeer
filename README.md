@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there 👋
+
+I'm Zumar Zehgeer! I'm a Software Engineer at iQuasar Software Solutions focusing on delivering technical solutions to make a significant impact on the people around me and the community.
+
 
 <!--
 **zumarzehgeer/zumarzehgeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
