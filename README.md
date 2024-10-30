@@ -31,8 +31,8 @@ Continuous Learning: Committed to ongoing professional development by staying up
 
 Connect with Me 📡
 -
-[Email](zumarzehgeer007@gmail.com)
-[LinkedIn]([url](http://www.linkedin.com/in/zumarzehgeer/))
+* [Email](zumarzehgeer007@gmail.com)
+* [LinkedIn]([url](http://www.linkedin.com/in/zumarzehgeer/))
 
 <!--
 **zumarzehgeer/zumarzehgeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
