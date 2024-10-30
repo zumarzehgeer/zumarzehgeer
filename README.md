@@ -34,6 +34,8 @@ Connect with Me 📡
 * [Email](zumarzehgeer007@gmail.com)
 * [LinkedIn](http://www.linkedin.com/in/zumarzehgeer/)
 
+I’m eager to team up on projects that leverage technology for positive social change. Let’s connect and make a difference together! 🌍
+
 <!--
 **zumarzehgeer/zumarzehgeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
