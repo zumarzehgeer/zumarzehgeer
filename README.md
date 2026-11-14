@@ -1,51 +1,30 @@
-Hi there 👋
+# Zumar Zehgeer
 
-I'm Zumar Zehgeer! I'm a Software Engineer at iQuasar Software Solutions focusing on delivering technical solutions to make a significant impact on the people around me and the community 
+Backend-focused full-stack engineer working with **Node.js, TypeScript and React**.
 
-About ME ✌️
--
+I build APIs and web applications, with an emphasis on clear application logic, testing and maintainable code. Based in India and open to remote backend and full-stack opportunities.
 
-An experienced software engineer with over 3 years in the industry, specializing in full-stack development and cloud technologies. Proven track record of improving system performance, leading successful projects, and continuously learning new skills. Adept at collaborating with cross-functional teams and committed to delivering high-quality solutions.
+## Core technologies
 
-Technical Skills 👨‍💻
--
+- **Backend:** Node.js, JavaScript, TypeScript, GraphQL
+- **Frontend:** React, Next.js
+- **Development:** Jest, GitHub, Docker
 
-* Languages: JavaScript, Python, TypeScript
-* Frameworks & Libraries: React, Next.js, Node.js, Jest, GraphQL
-* Tools & Platforms: GitHub, Docker
+My personal projects also explore Python/Django and Go. These are separate from my core professional stack.
 
-Key Projects 🔑
--
-* Interview Management System (Internal Tool)
-* Enterprise Resource Planning Software
+## Selected projects
 
-Leadership & Advocacy ✨🌟
--
-In my role at iQuasar Software Solutions, I have taken an active stance in fostering a supportive learning environment for our interns. I initiated a mentorship program designed to enhance their technical skills, providing hands-on training and resources tailored to their individual needs.
+### [Waycast — Weather-Aware Truck Routing](https://github.com/zumarzehgeer/weather-aware-truck-routing-app)
 
-Professional Goals 🚀
--
-* Career Development: Focused on furthering my career in software development, specifically in roles that leverage my technical and social skills in building impactful tech solutions.
-* Continuous Learning: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+A React/TypeScript and Django application built for a developer assessment. It compares routes using forecast weather at estimated arrival times, explains load-sensitive risk, and includes an explicitly synthetic demo.
 
-Connect with Me 📡
--
-* [Email](zumarzehgeer007@gmail.com)
-* [LinkedIn](http://www.linkedin.com/in/zumarzehgeer/)
+[Try Waycast](https://weather-aware-truck-routing-app.onrender.com/) · [Architecture and engineering decisions](https://github.com/zumarzehgeer/weather-aware-truck-routing-app#architecture) · [Tests and validation](https://github.com/zumarzehgeer/weather-aware-truck-routing-app#verification)
 
-I’m eager to team up on projects that leverage technology for positive social change. Let’s connect and make a difference together! 🌍
+### [Nimaaz Time Viewer](https://github.com/zumarzehgeer/nimaazTimeViewer)
 
-<!--
-**zumarzehgeer/zumarzehgeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A React/TypeScript prayer-time display application. Project documentation and demo access are being improved.
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email](mailto:zumarzehgeer007@gmail.com) · [LinkedIn](https://www.linkedin.com/in/zumarzehgeer/)
+
