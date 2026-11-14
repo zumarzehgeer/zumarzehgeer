@@ -22,7 +22,17 @@ A React/TypeScript and Django application built for a developer assessment. It c
 
 ### [Nimaaz Time Viewer](https://github.com/zumarzehgeer/nimaazTimeViewer)
 
-A React/TypeScript prayer-time display application. Project documentation and demo access are being improved.
+A React/TypeScript prayer-time display with Firebase account settings, configurable adhan/iqamah times and a next-prayer countdown. The review branch adds an isolated synthetic guest demo, screenshots, shared schedule calculations, 14 unit cases and four desktop/mobile browser checks.
+
+[Guest demo setup and screenshots](https://github.com/zumarzehgeer/nimaazTimeViewer/tree/portfolio/project-documentation#try-the-guest-demo-locally) · [Implementation and validation](https://github.com/zumarzehgeer/nimaazTimeViewer/pull/1)
+
+### [Product Release API — Node.js and TypeScript](https://github.com/zumarzehgeer/api-design-v4)
+
+An owner-scoped product, release and release-note API using Express, Prisma and PostgreSQL. Extended from Scott Moss's API Design with Node.js v4 coursework, with authentication, strict validation, indexed pagination and 17 real PostgreSQL integration cases. A two-account demo exercises the compiled server and checks cross-account isolation.
+
+[Run the API and demo](https://github.com/zumarzehgeer/api-design-v4/tree/portfolio/backend-showcase#evaluate-locally) · [API reference](https://github.com/zumarzehgeer/api-design-v4/blob/portfolio/backend-showcase/docs/API.md) · [Implementation and validation](https://github.com/zumarzehgeer/api-design-v4/pull/1)
+
+The Nimaaz guest demo and completed release API are on public review branches linked above. Their pull requests remain drafts; those changes have not been merged into the default branches or deployed to production.
 
 ## Contact
 
