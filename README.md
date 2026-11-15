@@ -24,7 +24,7 @@ A React/TypeScript and Django application built for a developer assessment. It c
 
 A React/TypeScript prayer-time display with Firebase account settings, configurable adhan/iqamah times and a next-prayer countdown. The review branch adds an isolated synthetic guest demo, screenshots, shared schedule calculations, 14 unit cases and six desktop/mobile browser checks.
 
-[Guest demo setup and screenshots](https://github.com/zumarzehgeer/nimaazTimeViewer/tree/portfolio/project-documentation#try-the-guest-demo-locally) · [Implementation and validation](https://github.com/zumarzehgeer/nimaazTimeViewer/pull/1)
+[Try the synthetic guest preview](https://345d403b-nimaaztimeviewer.zumarzehgeer007.workers.dev/?demo=1) · [Setup and screenshots](https://github.com/zumarzehgeer/nimaazTimeViewer/tree/portfolio/project-documentation#try-the-guest-demo-locally) · [Implementation and validation](https://github.com/zumarzehgeer/nimaazTimeViewer/pull/1)
 
 ### [Product Release API — Node.js and TypeScript](https://github.com/zumarzehgeer/api-design-v4)
 
@@ -32,7 +32,7 @@ An owner-scoped product, release and release-note API using Express, Prisma and 
 
 [Run the API and demo](https://github.com/zumarzehgeer/api-design-v4#evaluate-locally) · [API reference](https://github.com/zumarzehgeer/api-design-v4/blob/main/docs/API.md) · [Implementation and validation](https://github.com/zumarzehgeer/api-design-v4/pull/1)
 
-Waycast's evaluation improvements and the completed release API are merged into their default branches. The Nimaaz guest demo remains on the public review branch linked above; its pull request is still a draft, and it has not been deployed to production.
+Waycast's evaluation improvements and the completed release API are merged into their default branches. Nimaaz's synthetic guest preview is available without an account; that preview supports guest mode only. Its implementation remains on the public review branch, and its pull request is still a draft. The existing account application has not been replaced.
 
 ## Contact
 
