@@ -22,7 +22,7 @@ A React/TypeScript and Django application built for a developer assessment. It c
 
 ### [Nimaaz Time Viewer](https://github.com/zumarzehgeer/nimaazTimeViewer)
 
-A React/TypeScript prayer-time display with Firebase account settings, configurable adhan/iqamah times and a next-prayer countdown. The review branch adds an isolated synthetic guest demo, screenshots, shared schedule calculations, 14 unit cases and six desktop/mobile browser checks.
+A React/TypeScript prayer-time display with Firebase account settings, configurable adhan/iqamah times and a next-prayer countdown. The review branch adds an isolated synthetic guest demo, shared schedule calculations, 14 unit cases, nine browser checks and six local Firestore authorization cases. Account-emulator tests cover offline synchronization and isolation between accounts.
 
 [Try the synthetic guest preview](https://345d403b-nimaaztimeviewer.zumarzehgeer007.workers.dev/?demo=1) · [Setup and screenshots](https://github.com/zumarzehgeer/nimaazTimeViewer/tree/portfolio/project-documentation#try-the-guest-demo-locally) · [Implementation and validation](https://github.com/zumarzehgeer/nimaazTimeViewer/pull/1)
 
