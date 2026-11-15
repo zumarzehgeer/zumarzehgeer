@@ -22,7 +22,7 @@ A React/TypeScript and Django application built for a developer assessment. It c
 
 ### [Nimaaz Time Viewer](https://github.com/zumarzehgeer/nimaazTimeViewer)
 
-A React/TypeScript prayer-time display with Firebase account settings, configurable adhan/iqamah times and a next-prayer countdown. The review branch adds an isolated synthetic guest demo, shared schedule calculations, 14 unit cases, nine browser checks and six local Firestore authorization cases. Account-emulator tests cover offline synchronization and isolation between accounts.
+A React/TypeScript prayer-time display with Firebase account settings, configurable adhan/iqamah times and a next-prayer countdown. The review branch adds an isolated synthetic guest demo, shared schedule calculations, 14 unit cases, eleven browser checks and nine local Firestore rules/comparison cases. Account-emulator tests cover offline synchronization, account isolation and signup rollback/retry.
 
 [Try the synthetic guest preview](https://345d403b-nimaaztimeviewer.zumarzehgeer007.workers.dev/?demo=1) · [Setup and screenshots](https://github.com/zumarzehgeer/nimaazTimeViewer/tree/portfolio/project-documentation#try-the-guest-demo-locally) · [Implementation and validation](https://github.com/zumarzehgeer/nimaazTimeViewer/pull/1)
 
@@ -32,7 +32,7 @@ An owner-scoped product, release and release-note API using Express, Prisma and 
 
 [Run the API and demo](https://github.com/zumarzehgeer/api-design-v4#evaluate-locally) · [API reference](https://github.com/zumarzehgeer/api-design-v4/blob/main/docs/API.md) · [Implementation and validation](https://github.com/zumarzehgeer/api-design-v4/pull/1)
 
-Waycast's evaluation improvements and the completed release API are merged into their default branches. Nimaaz's synthetic guest preview is available without an account; that preview supports guest mode only. Its implementation remains on the public review branch, and its pull request is still a draft. The existing account application has not been replaced.
+Waycast's evaluation improvements and the completed release API are merged into their default branches. Nimaaz's synthetic guest preview is available without an account; that preview supports guest mode only. Its implementation remains on the public review branch. The existing account application has not been replaced.
 
 ## Contact
 
